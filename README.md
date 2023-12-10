@@ -1,5 +1,4 @@
-
-# Bootcamp de Ciberseguridad: Prácticas
+# Bootcamp de Ciberseguridad💻: Prácticas
 
 ¡Bienvenido al repositorio de prácticas del Bootcamp de Ciberseguridad! Aquí encontrarás el trabajo realizado durante el curso, demostrando habilidades y conocimientos en el emocionante mundo de la ciberseguridad.
 
